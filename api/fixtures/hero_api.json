@@ -1,0 +1,6373 @@
+[
+{
+  "model": "api.hero",
+  "pk": 1,
+  "fields":
+  {
+    "name": "A-Bomb",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 2,
+  "fields":
+  {
+    "name": "Abe Sapien",
+    "publisher": "Dark Horse Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 3,
+  "fields":
+  {
+    "name": "Abin Sur",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 4,
+  "fields":
+  {
+    "name": "Abomination",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 5,
+  "fields":
+  {
+    "name": "Abraxas",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 6,
+  "fields":
+  {
+    "name": "Absorbing Man",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 7,
+  "fields":
+  {
+    "name": "Adam Monroe",
+    "publisher": "NBC - Heroes"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 8,
+  "fields":
+  {
+    "name": "Adam Strange",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 9,
+  "fields":
+  {
+    "name": "Agent 13",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 10,
+  "fields":
+  {
+    "name": "Agent Bob",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 11,
+  "fields":
+  {
+    "name": "Agent Zero",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 12,
+  "fields":
+  {
+    "name": "Air-Walker",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 13,
+  "fields":
+  {
+    "name": "Ajax",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 14,
+  "fields":
+  {
+    "name": "Alan Scott",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 15,
+  "fields":
+  {
+    "name": "Alex Mercer",
+    "publisher": "Wildstorm"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 16,
+  "fields":
+  {
+    "name": "Alex Woolsly",
+    "publisher": "NBC - Heroes"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 17,
+  "fields":
+  {
+    "name": "Alfred Pennyworth",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 18,
+  "fields":
+  {
+    "name": "Alien",
+    "publisher": "Dark Horse Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 19,
+  "fields":
+  {
+    "name": "Allan Quatermain",
+    "publisher": "Wildstorm"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 20,
+  "fields":
+  {
+    "name": "Amazo",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 21,
+  "fields":
+  {
+    "name": "Ammo",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 22,
+  "fields":
+  {
+    "name": "Ando Masahashi",
+    "publisher": "NBC - Heroes"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 23,
+  "fields":
+  {
+    "name": "Angel",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 24,
+  "fields":
+  {
+    "name": "Angel",
+    "publisher": "Dark Horse Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 25,
+  "fields":
+  {
+    "name": "Angel Dust",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 26,
+  "fields":
+  {
+    "name": "Angel Salvadore",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 27,
+  "fields":
+  {
+    "name": "Angela",
+    "publisher": "Image Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 28,
+  "fields":
+  {
+    "name": "Animal Man",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 29,
+  "fields":
+  {
+    "name": "Annihilus",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 30,
+  "fields":
+  {
+    "name": "Ant-Man",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 31,
+  "fields":
+  {
+    "name": "Ant-Man II",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 32,
+  "fields":
+  {
+    "name": "Anti-Monitor",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 33,
+  "fields":
+  {
+    "name": "Anti-Spawn",
+    "publisher": "Image Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 34,
+  "fields":
+  {
+    "name": "Anti-Venom",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 35,
+  "fields":
+  {
+    "name": "Apocalypse",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 36,
+  "fields":
+  {
+    "name": "Aquababy",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 37,
+  "fields":
+  {
+    "name": "Aqualad",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 38,
+  "fields":
+  {
+    "name": "Aquaman",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 39,
+  "fields":
+  {
+    "name": "Arachne",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 40,
+  "fields":
+  {
+    "name": "Archangel",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 41,
+  "fields":
+  {
+    "name": "Arclight",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 42,
+  "fields":
+  {
+    "name": "Ardina",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 43,
+  "fields":
+  {
+    "name": "Ares",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 44,
+  "fields":
+  {
+    "name": "Ariel",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 45,
+  "fields":
+  {
+    "name": "Armor",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 46,
+  "fields":
+  {
+    "name": "Arsenal",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 47,
+  "fields":
+  {
+    "name": "Atlas",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 48,
+  "fields":
+  {
+    "name": "Atlas",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 49,
+  "fields":
+  {
+    "name": "Atom",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 50,
+  "fields":
+  {
+    "name": "Atom",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 51,
+  "fields":
+  {
+    "name": "Atom Girl",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 52,
+  "fields":
+  {
+    "name": "Atom II",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 53,
+  "fields":
+  {
+    "name": "Atom III",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 54,
+  "fields":
+  {
+    "name": "Atom IV",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 55,
+  "fields":
+  {
+    "name": "Aurora",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 56,
+  "fields":
+  {
+    "name": "Azazel",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 57,
+  "fields":
+  {
+    "name": "Azrael",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 58,
+  "fields":
+  {
+    "name": "Aztar",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 59,
+  "fields":
+  {
+    "name": "Bane",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 60,
+  "fields":
+  {
+    "name": "Banshee",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 61,
+  "fields":
+  {
+    "name": "Bantam",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 62,
+  "fields":
+  {
+    "name": "Batgirl",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 63,
+  "fields":
+  {
+    "name": "Batgirl",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 64,
+  "fields":
+  {
+    "name": "Batgirl III",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 65,
+  "fields":
+  {
+    "name": "Batgirl IV",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 66,
+  "fields":
+  {
+    "name": "Batgirl V",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 67,
+  "fields":
+  {
+    "name": "Batgirl VI",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 68,
+  "fields":
+  {
+    "name": "Batman",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 69,
+  "fields":
+  {
+    "name": "Batman",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 70,
+  "fields":
+  {
+    "name": "Batman II",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 71,
+  "fields":
+  {
+    "name": "Battlestar",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 72,
+  "fields":
+  {
+    "name": "Batwoman V",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 73,
+  "fields":
+  {
+    "name": "Beak",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 74,
+  "fields":
+  {
+    "name": "Beast",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 75,
+  "fields":
+  {
+    "name": "Beast Boy",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 76,
+  "fields":
+  {
+    "name": "Beetle",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 77,
+  "fields":
+  {
+    "name": "Ben 10",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 78,
+  "fields":
+  {
+    "name": "Beta Ray Bill",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 79,
+  "fields":
+  {
+    "name": "Beyonder",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 80,
+  "fields":
+  {
+    "name": "Big Barda",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 81,
+  "fields":
+  {
+    "name": "Big Daddy",
+    "publisher": "Icon Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 82,
+  "fields":
+  {
+    "name": "Big Man",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 83,
+  "fields":
+  {
+    "name": "Bill Harken",
+    "publisher": "SyFy"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 84,
+  "fields":
+  {
+    "name": "Billy Kincaid",
+    "publisher": "Image Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 85,
+  "fields":
+  {
+    "name": "Binary",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 86,
+  "fields":
+  {
+    "name": "Bird-Brain",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 87,
+  "fields":
+  {
+    "name": "Bird-Man",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 88,
+  "fields":
+  {
+    "name": "Bird-Man II",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 89,
+  "fields":
+  {
+    "name": "Birdman",
+    "publisher": "Hanna-Barbera"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 90,
+  "fields":
+  {
+    "name": "Bishop",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 91,
+  "fields":
+  {
+    "name": "Bizarro",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 92,
+  "fields":
+  {
+    "name": "Black Abbott",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 93,
+  "fields":
+  {
+    "name": "Black Adam",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 94,
+  "fields":
+  {
+    "name": "Black Bolt",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 95,
+  "fields":
+  {
+    "name": "Black Canary",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 96,
+  "fields":
+  {
+    "name": "Black Canary",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 97,
+  "fields":
+  {
+    "name": "Black Cat",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 98,
+  "fields":
+  {
+    "name": "Black Flash",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 99,
+  "fields":
+  {
+    "name": "Black Goliath",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 100,
+  "fields":
+  {
+    "name": "Black Knight III",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 101,
+  "fields":
+  {
+    "name": "Black Lightning",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 102,
+  "fields":
+  {
+    "name": "Black Mamba",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 103,
+  "fields":
+  {
+    "name": "Black Manta",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 104,
+  "fields":
+  {
+    "name": "Black Panther",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 105,
+  "fields":
+  {
+    "name": "Black Widow",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 106,
+  "fields":
+  {
+    "name": "Black Widow II",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 107,
+  "fields":
+  {
+    "name": "Blackout",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 108,
+  "fields":
+  {
+    "name": "Blackwing",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 109,
+  "fields":
+  {
+    "name": "Blackwulf",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 110,
+  "fields":
+  {
+    "name": "Blade",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 111,
+  "fields":
+  {
+    "name": "Blaquesmith",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 112,
+  "fields":
+  {
+    "name": "Bling!",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 113,
+  "fields":
+  {
+    "name": "Blink",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 114,
+  "fields":
+  {
+    "name": "Blizzard",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 115,
+  "fields":
+  {
+    "name": "Blizzard",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 116,
+  "fields":
+  {
+    "name": "Blizzard II",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 117,
+  "fields":
+  {
+    "name": "Blob",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 118,
+  "fields":
+  {
+    "name": "Bloodaxe",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 119,
+  "fields":
+  {
+    "name": "Bloodhawk",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 120,
+  "fields":
+  {
+    "name": "Bloodwraith",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 121,
+  "fields":
+  {
+    "name": "Blue Beetle",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 122,
+  "fields":
+  {
+    "name": "Blue Beetle",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 123,
+  "fields":
+  {
+    "name": "Blue Beetle II",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 124,
+  "fields":
+  {
+    "name": "Blue Beetle III",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 125,
+  "fields":
+  {
+    "name": "Boba Fett",
+    "publisher": "George Lucas"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 126,
+  "fields":
+  {
+    "name": "Bolt",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 127,
+  "fields":
+  {
+    "name": "Bomb Queen",
+    "publisher": "Image Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 128,
+  "fields":
+  {
+    "name": "Boom-Boom",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 129,
+  "fields":
+  {
+    "name": "Boomer",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 130,
+  "fields":
+  {
+    "name": "Booster Gold",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 131,
+  "fields":
+  {
+    "name": "Box",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 132,
+  "fields":
+  {
+    "name": "Box III",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 133,
+  "fields":
+  {
+    "name": "Box IV",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 134,
+  "fields":
+  {
+    "name": "Brainiac",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 135,
+  "fields":
+  {
+    "name": "Brainiac 5",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 136,
+  "fields":
+  {
+    "name": "Brother Voodoo",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 137,
+  "fields":
+  {
+    "name": "Buffy",
+    "publisher": "Dark Horse Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 138,
+  "fields":
+  {
+    "name": "Bullseye",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 139,
+  "fields":
+  {
+    "name": "Bumblebee",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 140,
+  "fields":
+  {
+    "name": "Bumbleboy",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 141,
+  "fields":
+  {
+    "name": "Bushido",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 142,
+  "fields":
+  {
+    "name": "Cable",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 143,
+  "fields":
+  {
+    "name": "Callisto",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 144,
+  "fields":
+  {
+    "name": "Cameron Hicks",
+    "publisher": "SyFy"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 145,
+  "fields":
+  {
+    "name": "Cannonball",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 146,
+  "fields":
+  {
+    "name": "Captain America",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 147,
+  "fields":
+  {
+    "name": "Captain Atom",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 148,
+  "fields":
+  {
+    "name": "Captain Britain",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 149,
+  "fields":
+  {
+    "name": "Captain Cold",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 150,
+  "fields":
+  {
+    "name": "Captain Epic",
+    "publisher": "Team Epic TV"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 151,
+  "fields":
+  {
+    "name": "Captain Hindsight",
+    "publisher": "South Park"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 152,
+  "fields":
+  {
+    "name": "Captain Mar-vell",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 153,
+  "fields":
+  {
+    "name": "Captain Marvel",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 154,
+  "fields":
+  {
+    "name": "Captain Marvel",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 155,
+  "fields":
+  {
+    "name": "Captain Marvel II",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 156,
+  "fields":
+  {
+    "name": "Captain Midnight",
+    "publisher": "Dark Horse Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 157,
+  "fields":
+  {
+    "name": "Captain Planet",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 158,
+  "fields":
+  {
+    "name": "Captain Universe",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 159,
+  "fields":
+  {
+    "name": "Carnage",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 160,
+  "fields":
+  {
+    "name": "Cat",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 161,
+  "fields":
+  {
+    "name": "Cat II",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 162,
+  "fields":
+  {
+    "name": "Catwoman",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 163,
+  "fields":
+  {
+    "name": "Cecilia Reyes",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 164,
+  "fields":
+  {
+    "name": "Century",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 165,
+  "fields":
+  {
+    "name": "Cerebra",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 166,
+  "fields":
+  {
+    "name": "Chamber",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 167,
+  "fields":
+  {
+    "name": "Chameleon",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 168,
+  "fields":
+  {
+    "name": "Changeling",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 169,
+  "fields":
+  {
+    "name": "Cheetah",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 170,
+  "fields":
+  {
+    "name": "Cheetah II",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 171,
+  "fields":
+  {
+    "name": "Cheetah III",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 172,
+  "fields":
+  {
+    "name": "Chromos",
+    "publisher": "Team Epic TV"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 173,
+  "fields":
+  {
+    "name": "Citizen Steel",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 174,
+  "fields":
+  {
+    "name": "Claire Bennet",
+    "publisher": "NBC - Heroes"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 175,
+  "fields":
+  {
+    "name": "Clea",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 176,
+  "fields":
+  {
+    "name": "Cloak",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 177,
+  "fields":
+  {
+    "name": "Clock King",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 178,
+  "fields":
+  {
+    "name": "Cogliostro",
+    "publisher": "Image Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 179,
+  "fields":
+  {
+    "name": "Colin Wagner",
+    "publisher": "HarperCollins"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 180,
+  "fields":
+  {
+    "name": "Colossal Boy",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 181,
+  "fields":
+  {
+    "name": "Colossus",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 182,
+  "fields":
+  {
+    "name": "Copycat",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 183,
+  "fields":
+  {
+    "name": "Corsair",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 184,
+  "fields":
+  {
+    "name": "Cottonmouth",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 185,
+  "fields":
+  {
+    "name": "Crimson Crusader",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 186,
+  "fields":
+  {
+    "name": "Crimson Dynamo",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 187,
+  "fields":
+  {
+    "name": "Crystal",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 188,
+  "fields":
+  {
+    "name": "Curse",
+    "publisher": "Image Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 189,
+  "fields":
+  {
+    "name": "Cy-Gor",
+    "publisher": "Image Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 190,
+  "fields":
+  {
+    "name": "Cyborg",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 191,
+  "fields":
+  {
+    "name": "Cyborg Superman",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 192,
+  "fields":
+  {
+    "name": "Cyclops",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 193,
+  "fields":
+  {
+    "name": "Cypher",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 194,
+  "fields":
+  {
+    "name": "Dagger",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 195,
+  "fields":
+  {
+    "name": "Danny Cooper",
+    "publisher": "HarperCollins"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 196,
+  "fields":
+  {
+    "name": "Daphne Powell",
+    "publisher": "ABC Studios"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 197,
+  "fields":
+  {
+    "name": "Daredevil",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 198,
+  "fields":
+  {
+    "name": "Darkhawk",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 199,
+  "fields":
+  {
+    "name": "Darkman",
+    "publisher": "Universal Studios"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 200,
+  "fields":
+  {
+    "name": "Darkseid",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 201,
+  "fields":
+  {
+    "name": "Darkstar",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 202,
+  "fields":
+  {
+    "name": "Darth Maul",
+    "publisher": "George Lucas"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 203,
+  "fields":
+  {
+    "name": "Darth Vader",
+    "publisher": "George Lucas"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 204,
+  "fields":
+  {
+    "name": "Dash",
+    "publisher": "Dark Horse Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 205,
+  "fields":
+  {
+    "name": "Data",
+    "publisher": "Star Trek"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 206,
+  "fields":
+  {
+    "name": "Dazzler",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 207,
+  "fields":
+  {
+    "name": "Deadman",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 208,
+  "fields":
+  {
+    "name": "Deadpool",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 209,
+  "fields":
+  {
+    "name": "Deadshot",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 210,
+  "fields":
+  {
+    "name": "Deathlok",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 211,
+  "fields":
+  {
+    "name": "Deathstroke",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 212,
+  "fields":
+  {
+    "name": "Demogoblin",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 213,
+  "fields":
+  {
+    "name": "Destroyer",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 214,
+  "fields":
+  {
+    "name": "Diamondback",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 215,
+  "fields":
+  {
+    "name": "DL Hawkins",
+    "publisher": "NBC - Heroes"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 216,
+  "fields":
+  {
+    "name": "Doc Samson",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 217,
+  "fields":
+  {
+    "name": "Doctor Doom",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 218,
+  "fields":
+  {
+    "name": "Doctor Doom II",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 219,
+  "fields":
+  {
+    "name": "Doctor Fate",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 220,
+  "fields":
+  {
+    "name": "Doctor Octopus",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 221,
+  "fields":
+  {
+    "name": "Doctor Strange",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 222,
+  "fields":
+  {
+    "name": "Domino",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 223,
+  "fields":
+  {
+    "name": "Donatello",
+    "publisher": "IDW Publishing"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 224,
+  "fields":
+  {
+    "name": "Donna Troy",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 225,
+  "fields":
+  {
+    "name": "Doomsday",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 226,
+  "fields":
+  {
+    "name": "Doppelganger",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 227,
+  "fields":
+  {
+    "name": "Dormammu",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 228,
+  "fields":
+  {
+    "name": "Dr Manhattan",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 229,
+  "fields":
+  {
+    "name": "Drax the Destroyer",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 230,
+  "fields":
+  {
+    "name": "Ego",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 231,
+  "fields":
+  {
+    "name": "Elastigirl",
+    "publisher": "Dark Horse Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 232,
+  "fields":
+  {
+    "name": "Electro",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 233,
+  "fields":
+  {
+    "name": "Elektra",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 234,
+  "fields":
+  {
+    "name": "Elle Bishop",
+    "publisher": "NBC - Heroes"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 235,
+  "fields":
+  {
+    "name": "Elongated Man",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 236,
+  "fields":
+  {
+    "name": "Emma Frost",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 237,
+  "fields":
+  {
+    "name": "Enchantress",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 238,
+  "fields":
+  {
+    "name": "Energy",
+    "publisher": "HarperCollins"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 239,
+  "fields":
+  {
+    "name": "ERG-1",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 240,
+  "fields":
+  {
+    "name": "Etrigan",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 241,
+  "fields":
+  {
+    "name": "Evil Deadpool",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 242,
+  "fields":
+  {
+    "name": "Evilhawk",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 243,
+  "fields":
+  {
+    "name": "Exodus",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 244,
+  "fields":
+  {
+    "name": "Fabian Cortez",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 245,
+  "fields":
+  {
+    "name": "Falcon",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 246,
+  "fields":
+  {
+    "name": "Fallen One II",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 247,
+  "fields":
+  {
+    "name": "Faora",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 248,
+  "fields":
+  {
+    "name": "Feral",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 249,
+  "fields":
+  {
+    "name": "Fighting Spirit",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 250,
+  "fields":
+  {
+    "name": "Fin Fang Foom",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 251,
+  "fields":
+  {
+    "name": "Firebird",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 252,
+  "fields":
+  {
+    "name": "Firelord",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 253,
+  "fields":
+  {
+    "name": "Firestar",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 254,
+  "fields":
+  {
+    "name": "Firestorm",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 255,
+  "fields":
+  {
+    "name": "Firestorm",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 256,
+  "fields":
+  {
+    "name": "Fixer",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 257,
+  "fields":
+  {
+    "name": "Flash",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 258,
+  "fields":
+  {
+    "name": "Flash II",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 259,
+  "fields":
+  {
+    "name": "Flash III",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 260,
+  "fields":
+  {
+    "name": "Flash IV",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 261,
+  "fields":
+  {
+    "name": "Forge",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 262,
+  "fields":
+  {
+    "name": "Franklin Richards",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 263,
+  "fields":
+  {
+    "name": "Franklin Storm",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 264,
+  "fields":
+  {
+    "name": "Frenzy",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 265,
+  "fields":
+  {
+    "name": "Frigga",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 266,
+  "fields":
+  {
+    "name": "Galactus",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 267,
+  "fields":
+  {
+    "name": "Gambit",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 268,
+  "fields":
+  {
+    "name": "Gamora",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 269,
+  "fields":
+  {
+    "name": "Garbage Man",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 270,
+  "fields":
+  {
+    "name": "Gary Bell",
+    "publisher": "SyFy"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 271,
+  "fields":
+  {
+    "name": "General Zod",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 272,
+  "fields":
+  {
+    "name": "Genesis",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 273,
+  "fields":
+  {
+    "name": "Ghost Rider",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 274,
+  "fields":
+  {
+    "name": "Ghost Rider II",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 275,
+  "fields":
+  {
+    "name": "Giant-Man",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 276,
+  "fields":
+  {
+    "name": "Giant-Man II",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 277,
+  "fields":
+  {
+    "name": "Giganta",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 278,
+  "fields":
+  {
+    "name": "Gladiator",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 279,
+  "fields":
+  {
+    "name": "Goblin Queen",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 280,
+  "fields":
+  {
+    "name": "Gog",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 281,
+  "fields":
+  {
+    "name": "Goku",
+    "publisher": "Shueisha"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 282,
+  "fields":
+  {
+    "name": "Goliath",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 283,
+  "fields":
+  {
+    "name": "Goliath",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 284,
+  "fields":
+  {
+    "name": "Goliath",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 285,
+  "fields":
+  {
+    "name": "Goliath IV",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 286,
+  "fields":
+  {
+    "name": "Gorilla Grodd",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 287,
+  "fields":
+  {
+    "name": "Granny Goodness",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 288,
+  "fields":
+  {
+    "name": "Gravity",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 289,
+  "fields":
+  {
+    "name": "Greedo",
+    "publisher": "George Lucas"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 290,
+  "fields":
+  {
+    "name": "Green Arrow",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 291,
+  "fields":
+  {
+    "name": "Green Goblin",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 292,
+  "fields":
+  {
+    "name": "Green Goblin II",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 293,
+  "fields":
+  {
+    "name": "Green Goblin III",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 294,
+  "fields":
+  {
+    "name": "Green Goblin IV",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 295,
+  "fields":
+  {
+    "name": "Groot",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 296,
+  "fields":
+  {
+    "name": "Guardian",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 297,
+  "fields":
+  {
+    "name": "Guy Gardner",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 298,
+  "fields":
+  {
+    "name": "Hal Jordan",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 299,
+  "fields":
+  {
+    "name": "Han Solo",
+    "publisher": "George Lucas"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 300,
+  "fields":
+  {
+    "name": "Hancock",
+    "publisher": "Sony Pictures"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 301,
+  "fields":
+  {
+    "name": "Harley Quinn",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 302,
+  "fields":
+  {
+    "name": "Harry Potter",
+    "publisher": "J. K. Rowling"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 303,
+  "fields":
+  {
+    "name": "Havok",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 304,
+  "fields":
+  {
+    "name": "Hawk",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 305,
+  "fields":
+  {
+    "name": "Hawkeye",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 306,
+  "fields":
+  {
+    "name": "Hawkeye II",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 307,
+  "fields":
+  {
+    "name": "Hawkgirl",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 308,
+  "fields":
+  {
+    "name": "Hawkman",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 309,
+  "fields":
+  {
+    "name": "Hawkwoman",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 310,
+  "fields":
+  {
+    "name": "Hawkwoman II",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 311,
+  "fields":
+  {
+    "name": "Hawkwoman III",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 312,
+  "fields":
+  {
+    "name": "Heat Wave",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 313,
+  "fields":
+  {
+    "name": "Hela",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 314,
+  "fields":
+  {
+    "name": "Hellboy",
+    "publisher": "Dark Horse Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 315,
+  "fields":
+  {
+    "name": "Hellcat",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 316,
+  "fields":
+  {
+    "name": "Hellstorm",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 317,
+  "fields":
+  {
+    "name": "Hercules",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 318,
+  "fields":
+  {
+    "name": "Hiro Nakamura",
+    "publisher": "NBC - Heroes"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 319,
+  "fields":
+  {
+    "name": "Hit-Girl",
+    "publisher": "Icon Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 320,
+  "fields":
+  {
+    "name": "Hobgoblin",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 321,
+  "fields":
+  {
+    "name": "Hollow",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 322,
+  "fields":
+  {
+    "name": "Hope Summers",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 323,
+  "fields":
+  {
+    "name": "Howard the Duck",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 324,
+  "fields":
+  {
+    "name": "Hulk",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 325,
+  "fields":
+  {
+    "name": "Human Torch",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 326,
+  "fields":
+  {
+    "name": "Huntress",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 327,
+  "fields":
+  {
+    "name": "Husk",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 328,
+  "fields":
+  {
+    "name": "Hybrid",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 329,
+  "fields":
+  {
+    "name": "Hydro-Man",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 330,
+  "fields":
+  {
+    "name": "Hyperion",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 331,
+  "fields":
+  {
+    "name": "Iceman",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 332,
+  "fields":
+  {
+    "name": "Impulse",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 333,
+  "fields":
+  {
+    "name": "Indiana Jones",
+    "publisher": "George Lucas"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 334,
+  "fields":
+  {
+    "name": "Indigo",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 335,
+  "fields":
+  {
+    "name": "Ink",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 336,
+  "fields":
+  {
+    "name": "Invisible Woman",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 337,
+  "fields":
+  {
+    "name": "Iron Fist",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 338,
+  "fields":
+  {
+    "name": "Iron Man",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 339,
+  "fields":
+  {
+    "name": "Iron Monger",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 340,
+  "fields":
+  {
+    "name": "Isis",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 341,
+  "fields":
+  {
+    "name": "Jack of Hearts",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 342,
+  "fields":
+  {
+    "name": "Jack-Jack",
+    "publisher": "Dark Horse Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 343,
+  "fields":
+  {
+    "name": "James Bond",
+    "publisher": "Titan Books"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 344,
+  "fields":
+  {
+    "name": "James T. Kirk",
+    "publisher": "Star Trek"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 345,
+  "fields":
+  {
+    "name": "Jar Jar Binks",
+    "publisher": "George Lucas"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 346,
+  "fields":
+  {
+    "name": "Jean Grey",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 347,
+  "fields":
+  {
+    "name": "Jean-Luc Picard",
+    "publisher": "Star Trek"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 348,
+  "fields":
+  {
+    "name": "Jennifer Kale",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 349,
+  "fields":
+  {
+    "name": "Jesse Quick",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 350,
+  "fields":
+  {
+    "name": "Jessica Cruz",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 351,
+  "fields":
+  {
+    "name": "Jessica Jones",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 352,
+  "fields":
+  {
+    "name": "Jessica Sanders",
+    "publisher": "NBC - Heroes"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 353,
+  "fields":
+  {
+    "name": "Jigsaw",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 354,
+  "fields":
+  {
+    "name": "Jim Powell",
+    "publisher": "ABC Studios"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 355,
+  "fields":
+  {
+    "name": "JJ Powell",
+    "publisher": "ABC Studios"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 356,
+  "fields":
+  {
+    "name": "Johann Krauss",
+    "publisher": "Dark Horse Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 357,
+  "fields":
+  {
+    "name": "John Constantine",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 358,
+  "fields":
+  {
+    "name": "John Stewart",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 359,
+  "fields":
+  {
+    "name": "John Wraith",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 360,
+  "fields":
+  {
+    "name": "Joker",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 361,
+  "fields":
+  {
+    "name": "Jolt",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 362,
+  "fields":
+  {
+    "name": "Jubilee",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 363,
+  "fields":
+  {
+    "name": "Judge Dredd",
+    "publisher": "Rebellion"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 364,
+  "fields":
+  {
+    "name": "Juggernaut",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 365,
+  "fields":
+  {
+    "name": "Junkpile",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 366,
+  "fields":
+  {
+    "name": "Justice",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 367,
+  "fields":
+  {
+    "name": "Jyn Erso",
+    "publisher": "George Lucas"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 368,
+  "fields":
+  {
+    "name": "K-2SO",
+    "publisher": "George Lucas"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 369,
+  "fields":
+  {
+    "name": "Kang",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 370,
+  "fields":
+  {
+    "name": "Karate Kid",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 371,
+  "fields":
+  {
+    "name": "Kathryn Janeway",
+    "publisher": "Star Trek"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 372,
+  "fields":
+  {
+    "name": "Kevin 11",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 373,
+  "fields":
+  {
+    "name": "Kick-Ass",
+    "publisher": "Icon Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 374,
+  "fields":
+  {
+    "name": "Kid Flash",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 375,
+  "fields":
+  {
+    "name": "Kid Flash II",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 376,
+  "fields":
+  {
+    "name": "Killer Croc",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 377,
+  "fields":
+  {
+    "name": "Killer Frost",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 378,
+  "fields":
+  {
+    "name": "Kilowog",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 379,
+  "fields":
+  {
+    "name": "King Shark",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 380,
+  "fields":
+  {
+    "name": "Kingpin",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 381,
+  "fields":
+  {
+    "name": "Klaw",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 382,
+  "fields":
+  {
+    "name": "Kraven II",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 383,
+  "fields":
+  {
+    "name": "Kraven the Hunter",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 384,
+  "fields":
+  {
+    "name": "Krypto",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 385,
+  "fields":
+  {
+    "name": "Kyle Rayner",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 386,
+  "fields":
+  {
+    "name": "Kylo Ren",
+    "publisher": "George Lucas"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 387,
+  "fields":
+  {
+    "name": "Lady Bullseye",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 388,
+  "fields":
+  {
+    "name": "Lady Deathstrike",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 389,
+  "fields":
+  {
+    "name": "Leader",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 390,
+  "fields":
+  {
+    "name": "Leech",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 391,
+  "fields":
+  {
+    "name": "Legion",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 392,
+  "fields":
+  {
+    "name": "Leonardo",
+    "publisher": "IDW Publishing"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 393,
+  "fields":
+  {
+    "name": "Lex Luthor",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 394,
+  "fields":
+  {
+    "name": "Light Lass",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 395,
+  "fields":
+  {
+    "name": "Lightning Lad",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 396,
+  "fields":
+  {
+    "name": "Lightning Lord",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 397,
+  "fields":
+  {
+    "name": "Living Brain",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 398,
+  "fields":
+  {
+    "name": "Living Tribunal",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 399,
+  "fields":
+  {
+    "name": "Liz Sherman",
+    "publisher": "Dark Horse Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 400,
+  "fields":
+  {
+    "name": "Lizard",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 401,
+  "fields":
+  {
+    "name": "Lobo",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 402,
+  "fields":
+  {
+    "name": "Loki",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 403,
+  "fields":
+  {
+    "name": "Longshot",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 404,
+  "fields":
+  {
+    "name": "Luke Cage",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 405,
+  "fields":
+  {
+    "name": "Luke Campbell",
+    "publisher": "NBC - Heroes"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 406,
+  "fields":
+  {
+    "name": "Luke Skywalker",
+    "publisher": "George Lucas"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 407,
+  "fields":
+  {
+    "name": "Luna",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 408,
+  "fields":
+  {
+    "name": "Lyja",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 409,
+  "fields":
+  {
+    "name": "Mach-IV",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 410,
+  "fields":
+  {
+    "name": "Machine Man",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 411,
+  "fields":
+  {
+    "name": "Magneto",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 412,
+  "fields":
+  {
+    "name": "Magog",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 413,
+  "fields":
+  {
+    "name": "Magus",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 414,
+  "fields":
+  {
+    "name": "Man of Miracles",
+    "publisher": "Image Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 415,
+  "fields":
+  {
+    "name": "Man-Bat",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 416,
+  "fields":
+  {
+    "name": "Man-Thing",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 417,
+  "fields":
+  {
+    "name": "Man-Wolf",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 418,
+  "fields":
+  {
+    "name": "Mandarin",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 419,
+  "fields":
+  {
+    "name": "Mantis",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 420,
+  "fields":
+  {
+    "name": "Martian Manhunter",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 421,
+  "fields":
+  {
+    "name": "Marvel Girl",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 422,
+  "fields":
+  {
+    "name": "Master Brood",
+    "publisher": "Team Epic TV"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 423,
+  "fields":
+  {
+    "name": "Master Chief",
+    "publisher": "Microsoft"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 424,
+  "fields":
+  {
+    "name": "Match",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 425,
+  "fields":
+  {
+    "name": "Matt Parkman",
+    "publisher": "NBC - Heroes"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 426,
+  "fields":
+  {
+    "name": "Maverick",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 427,
+  "fields":
+  {
+    "name": "Maxima",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 428,
+  "fields":
+  {
+    "name": "Maya Herrera",
+    "publisher": "NBC - Heroes"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 429,
+  "fields":
+  {
+    "name": "Medusa",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 430,
+  "fields":
+  {
+    "name": "Meltdown",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 431,
+  "fields":
+  {
+    "name": "Mephisto",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 432,
+  "fields":
+  {
+    "name": "Mera",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 433,
+  "fields":
+  {
+    "name": "Metallo",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 434,
+  "fields":
+  {
+    "name": "Metamorpho",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 435,
+  "fields":
+  {
+    "name": "Meteorite",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 436,
+  "fields":
+  {
+    "name": "Metron",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 437,
+  "fields":
+  {
+    "name": "Micah Sanders",
+    "publisher": "NBC - Heroes"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 438,
+  "fields":
+  {
+    "name": "Michelangelo",
+    "publisher": "IDW Publishing"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 439,
+  "fields":
+  {
+    "name": "Micro Lad",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 440,
+  "fields":
+  {
+    "name": "Mimic",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 441,
+  "fields":
+  {
+    "name": "Minna Murray",
+    "publisher": "Wildstorm"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 442,
+  "fields":
+  {
+    "name": "Misfit",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 443,
+  "fields":
+  {
+    "name": "Miss Martian",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 444,
+  "fields":
+  {
+    "name": "Mister Fantastic",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 445,
+  "fields":
+  {
+    "name": "Mister Freeze",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 446,
+  "fields":
+  {
+    "name": "Mister Knife",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 447,
+  "fields":
+  {
+    "name": "Mister Mxyzptlk",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 448,
+  "fields":
+  {
+    "name": "Mister Sinister",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 449,
+  "fields":
+  {
+    "name": "Mister Zsasz",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 450,
+  "fields":
+  {
+    "name": "Mockingbird",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 451,
+  "fields":
+  {
+    "name": "MODOK",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 452,
+  "fields":
+  {
+    "name": "Mogo",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 453,
+  "fields":
+  {
+    "name": "Mohinder Suresh",
+    "publisher": "NBC - Heroes"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 454,
+  "fields":
+  {
+    "name": "Moloch",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 455,
+  "fields":
+  {
+    "name": "Molten Man",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 456,
+  "fields":
+  {
+    "name": "Monarch",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 457,
+  "fields":
+  {
+    "name": "Monica Dawson",
+    "publisher": "NBC - Heroes"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 458,
+  "fields":
+  {
+    "name": "Moon Knight",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 459,
+  "fields":
+  {
+    "name": "Moonstone",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 460,
+  "fields":
+  {
+    "name": "Morlun",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 461,
+  "fields":
+  {
+    "name": "Morph",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 462,
+  "fields":
+  {
+    "name": "Moses Magnum",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 463,
+  "fields":
+  {
+    "name": "Mr Immortal",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 464,
+  "fields":
+  {
+    "name": "Mr Incredible",
+    "publisher": "Dark Horse Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 465,
+  "fields":
+  {
+    "name": "Ms Marvel II",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 466,
+  "fields":
+  {
+    "name": "Multiple Man",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 467,
+  "fields":
+  {
+    "name": "Mysterio",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 468,
+  "fields":
+  {
+    "name": "Mystique",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 469,
+  "fields":
+  {
+    "name": "Namor",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 470,
+  "fields":
+  {
+    "name": "Namor",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 471,
+  "fields":
+  {
+    "name": "Namora",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 472,
+  "fields":
+  {
+    "name": "Namorita",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 473,
+  "fields":
+  {
+    "name": "Naruto Uzumaki",
+    "publisher": "Shueisha"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 474,
+  "fields":
+  {
+    "name": "Nathan Petrelli",
+    "publisher": "NBC - Heroes"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 475,
+  "fields":
+  {
+    "name": "Nebula",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 476,
+  "fields":
+  {
+    "name": "Negasonic Teenage Warhead",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 477,
+  "fields":
+  {
+    "name": "Nick Fury",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 478,
+  "fields":
+  {
+    "name": "Nightcrawler",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 479,
+  "fields":
+  {
+    "name": "Nightwing",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 480,
+  "fields":
+  {
+    "name": "Niki Sanders",
+    "publisher": "NBC - Heroes"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 481,
+  "fields":
+  {
+    "name": "Nina Theroux",
+    "publisher": "SyFy"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 482,
+  "fields":
+  {
+    "name": "Nite Owl II",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 483,
+  "fields":
+  {
+    "name": "Northstar",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 484,
+  "fields":
+  {
+    "name": "Nova",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 485,
+  "fields":
+  {
+    "name": "Nova",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 486,
+  "fields":
+  {
+    "name": "Odin",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 487,
+  "fields":
+  {
+    "name": "Offspring",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 488,
+  "fields":
+  {
+    "name": "Omega Red",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 489,
+  "fields":
+  {
+    "name": "Omniscient",
+    "publisher": "Team Epic TV"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 490,
+  "fields":
+  {
+    "name": "One Punch Man",
+    "publisher": "Shueisha"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 491,
+  "fields":
+  {
+    "name": "One-Above-All",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 492,
+  "fields":
+  {
+    "name": "Onslaught",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 493,
+  "fields":
+  {
+    "name": "Oracle",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 494,
+  "fields":
+  {
+    "name": "Osiris",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 495,
+  "fields":
+  {
+    "name": "Overtkill",
+    "publisher": "Image Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 496,
+  "fields":
+  {
+    "name": "Ozymandias",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 497,
+  "fields":
+  {
+    "name": "Parademon",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 498,
+  "fields":
+  {
+    "name": "Paul Blart",
+    "publisher": "Sony Pictures"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 499,
+  "fields":
+  {
+    "name": "Penance",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 500,
+  "fields":
+  {
+    "name": "Penance I",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 501,
+  "fields":
+  {
+    "name": "Penance II",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 502,
+  "fields":
+  {
+    "name": "Penguin",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 503,
+  "fields":
+  {
+    "name": "Peter Petrelli",
+    "publisher": "NBC - Heroes"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 504,
+  "fields":
+  {
+    "name": "Phantom",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 505,
+  "fields":
+  {
+    "name": "Phantom Girl",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 506,
+  "fields":
+  {
+    "name": "Phoenix",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 507,
+  "fields":
+  {
+    "name": "Plantman",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 508,
+  "fields":
+  {
+    "name": "Plastic Lad",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 509,
+  "fields":
+  {
+    "name": "Plastic Man",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 510,
+  "fields":
+  {
+    "name": "Plastique",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 511,
+  "fields":
+  {
+    "name": "Poison Ivy",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 512,
+  "fields":
+  {
+    "name": "Polaris",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 513,
+  "fields":
+  {
+    "name": "Power Girl",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 514,
+  "fields":
+  {
+    "name": "Power Man",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 515,
+  "fields":
+  {
+    "name": "Predator",
+    "publisher": "Dark Horse Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 516,
+  "fields":
+  {
+    "name": "Professor X",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 517,
+  "fields":
+  {
+    "name": "Professor Zoom",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 518,
+  "fields":
+  {
+    "name": "Proto-Goblin",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 519,
+  "fields":
+  {
+    "name": "Psylocke",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 520,
+  "fields":
+  {
+    "name": "Punisher",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 521,
+  "fields":
+  {
+    "name": "Purple Man",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 522,
+  "fields":
+  {
+    "name": "Pyro",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 523,
+  "fields":
+  {
+    "name": "Q",
+    "publisher": "Star Trek"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 524,
+  "fields":
+  {
+    "name": "Quantum",
+    "publisher": "HarperCollins"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 525,
+  "fields":
+  {
+    "name": "Question",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 526,
+  "fields":
+  {
+    "name": "Quicksilver",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 527,
+  "fields":
+  {
+    "name": "Quill",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 528,
+  "fields":
+  {
+    "name": "Ra's Al Ghul",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 529,
+  "fields":
+  {
+    "name": "Rachel Pirzad",
+    "publisher": "SyFy"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 530,
+  "fields":
+  {
+    "name": "Raphael",
+    "publisher": "IDW Publishing"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 531,
+  "fields":
+  {
+    "name": "Raven",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 532,
+  "fields":
+  {
+    "name": "Ray",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 533,
+  "fields":
+  {
+    "name": "Razor-Fist II",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 534,
+  "fields":
+  {
+    "name": "Red Arrow",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 535,
+  "fields":
+  {
+    "name": "Red Hood",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 536,
+  "fields":
+  {
+    "name": "Red Hulk",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 537,
+  "fields":
+  {
+    "name": "Red Mist",
+    "publisher": "Icon Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 538,
+  "fields":
+  {
+    "name": "Red Robin",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 539,
+  "fields":
+  {
+    "name": "Red Skull",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 540,
+  "fields":
+  {
+    "name": "Red Tornado",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 541,
+  "fields":
+  {
+    "name": "Redeemer II",
+    "publisher": "Image Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 542,
+  "fields":
+  {
+    "name": "Redeemer III",
+    "publisher": "Image Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 543,
+  "fields":
+  {
+    "name": "Renata Soliz",
+    "publisher": "HarperCollins"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 544,
+  "fields":
+  {
+    "name": "Rey",
+    "publisher": "George Lucas"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 545,
+  "fields":
+  {
+    "name": "Rhino",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 546,
+  "fields":
+  {
+    "name": "Rick Flag",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 547,
+  "fields":
+  {
+    "name": "Riddler",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 548,
+  "fields":
+  {
+    "name": "Rip Hunter",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 549,
+  "fields":
+  {
+    "name": "Ripcord",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 550,
+  "fields":
+  {
+    "name": "Robin",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 551,
+  "fields":
+  {
+    "name": "Robin II",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 552,
+  "fields":
+  {
+    "name": "Robin III",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 553,
+  "fields":
+  {
+    "name": "Robin V",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 554,
+  "fields":
+  {
+    "name": "Robin VI",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 555,
+  "fields":
+  {
+    "name": "Rocket Raccoon",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 556,
+  "fields":
+  {
+    "name": "Rogue",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 557,
+  "fields":
+  {
+    "name": "Ronin",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 558,
+  "fields":
+  {
+    "name": "Rorschach",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 559,
+  "fields":
+  {
+    "name": "Sabretooth",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 560,
+  "fields":
+  {
+    "name": "Sage",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 561,
+  "fields":
+  {
+    "name": "Sandman",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 562,
+  "fields":
+  {
+    "name": "Sasquatch",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 563,
+  "fields":
+  {
+    "name": "Sauron",
+    "publisher": "J. R. R. Tolkien"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 564,
+  "fields":
+  {
+    "name": "Savage Dragon",
+    "publisher": "Image Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 565,
+  "fields":
+  {
+    "name": "Scarecrow",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 566,
+  "fields":
+  {
+    "name": "Scarlet Spider",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 567,
+  "fields":
+  {
+    "name": "Scarlet Spider II",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 568,
+  "fields":
+  {
+    "name": "Scarlet Witch",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 569,
+  "fields":
+  {
+    "name": "Scorpia",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 570,
+  "fields":
+  {
+    "name": "Scorpion",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 571,
+  "fields":
+  {
+    "name": "Sebastian Shaw",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 572,
+  "fields":
+  {
+    "name": "Sentry",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 573,
+  "fields":
+  {
+    "name": "Shadow King",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 574,
+  "fields":
+  {
+    "name": "Shadow Lass",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 575,
+  "fields":
+  {
+    "name": "Shadowcat",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 576,
+  "fields":
+  {
+    "name": "Shang-Chi",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 577,
+  "fields":
+  {
+    "name": "Shatterstar",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 578,
+  "fields":
+  {
+    "name": "She-Hulk",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 579,
+  "fields":
+  {
+    "name": "She-Thing",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 580,
+  "fields":
+  {
+    "name": "Shocker",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 581,
+  "fields":
+  {
+    "name": "Shriek",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 582,
+  "fields":
+  {
+    "name": "Shrinking Violet",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 583,
+  "fields":
+  {
+    "name": "Sif",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 584,
+  "fields":
+  {
+    "name": "Silk",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 585,
+  "fields":
+  {
+    "name": "Silk Spectre",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 586,
+  "fields":
+  {
+    "name": "Silk Spectre II",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 587,
+  "fields":
+  {
+    "name": "Silver Surfer",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 588,
+  "fields":
+  {
+    "name": "Silverclaw",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 589,
+  "fields":
+  {
+    "name": "Simon Baz",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 590,
+  "fields":
+  {
+    "name": "Sinestro",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 591,
+  "fields":
+  {
+    "name": "Siren",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 592,
+  "fields":
+  {
+    "name": "Siren II",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 593,
+  "fields":
+  {
+    "name": "Siryn",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 594,
+  "fields":
+  {
+    "name": "Skaar",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 595,
+  "fields":
+  {
+    "name": "Snake-Eyes",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 596,
+  "fields":
+  {
+    "name": "Snowbird",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 597,
+  "fields":
+  {
+    "name": "Sobek",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 598,
+  "fields":
+  {
+    "name": "Solomon Grundy",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 599,
+  "fields":
+  {
+    "name": "Songbird",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 600,
+  "fields":
+  {
+    "name": "Space Ghost",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 601,
+  "fields":
+  {
+    "name": "Spawn",
+    "publisher": "Image Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 602,
+  "fields":
+  {
+    "name": "Spectre",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 603,
+  "fields":
+  {
+    "name": "Speedball",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 604,
+  "fields":
+  {
+    "name": "Speedy",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 605,
+  "fields":
+  {
+    "name": "Speedy",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 606,
+  "fields":
+  {
+    "name": "Spider-Carnage",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 607,
+  "fields":
+  {
+    "name": "Spider-Girl",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 608,
+  "fields":
+  {
+    "name": "Spider-Gwen",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 609,
+  "fields":
+  {
+    "name": "Spider-Man",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 610,
+  "fields":
+  {
+    "name": "Spider-Man",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 611,
+  "fields":
+  {
+    "name": "Spider-Man",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 612,
+  "fields":
+  {
+    "name": "Spider-Woman",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 613,
+  "fields":
+  {
+    "name": "Spider-Woman II",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 614,
+  "fields":
+  {
+    "name": "Spider-Woman III",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 615,
+  "fields":
+  {
+    "name": "Spider-Woman IV",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 616,
+  "fields":
+  {
+    "name": "Spock",
+    "publisher": "Star Trek"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 617,
+  "fields":
+  {
+    "name": "Spyke",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 618,
+  "fields":
+  {
+    "name": "Stacy X",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 619,
+  "fields":
+  {
+    "name": "Star-Lord",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 620,
+  "fields":
+  {
+    "name": "Stardust",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 621,
+  "fields":
+  {
+    "name": "Starfire",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 622,
+  "fields":
+  {
+    "name": "Stargirl",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 623,
+  "fields":
+  {
+    "name": "Static",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 624,
+  "fields":
+  {
+    "name": "Steel",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 625,
+  "fields":
+  {
+    "name": "Stephanie Powell",
+    "publisher": "ABC Studios"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 626,
+  "fields":
+  {
+    "name": "Steppenwolf",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 627,
+  "fields":
+  {
+    "name": "Storm",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 628,
+  "fields":
+  {
+    "name": "Stormtrooper",
+    "publisher": "George Lucas"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 629,
+  "fields":
+  {
+    "name": "Sunspot",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 630,
+  "fields":
+  {
+    "name": "Superboy",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 631,
+  "fields":
+  {
+    "name": "Superboy-Prime",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 632,
+  "fields":
+  {
+    "name": "Supergirl",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 633,
+  "fields":
+  {
+    "name": "Superman",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 634,
+  "fields":
+  {
+    "name": "Swamp Thing",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 635,
+  "fields":
+  {
+    "name": "Swarm",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 636,
+  "fields":
+  {
+    "name": "Sylar",
+    "publisher": "NBC - Heroes"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 637,
+  "fields":
+  {
+    "name": "Synch",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 638,
+  "fields":
+  {
+    "name": "Taskmaster",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 639,
+  "fields":
+  {
+    "name": "Tempest",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 640,
+  "fields":
+  {
+    "name": "Thanos",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 641,
+  "fields":
+  {
+    "name": "The Comedian",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 642,
+  "fields":
+  {
+    "name": "Thing",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 643,
+  "fields":
+  {
+    "name": "Thor",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 644,
+  "fields":
+  {
+    "name": "Thor Girl",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 645,
+  "fields":
+  {
+    "name": "Thunderbird",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 646,
+  "fields":
+  {
+    "name": "Thunderbird II",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 647,
+  "fields":
+  {
+    "name": "Thunderbird III",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 648,
+  "fields":
+  {
+    "name": "Thunderstrike",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 649,
+  "fields":
+  {
+    "name": "Thundra",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 650,
+  "fields":
+  {
+    "name": "Tiger Shark",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 651,
+  "fields":
+  {
+    "name": "Tigra",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 652,
+  "fields":
+  {
+    "name": "Tinkerer",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 653,
+  "fields":
+  {
+    "name": "Titan",
+    "publisher": "HarperCollins"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 654,
+  "fields":
+  {
+    "name": "Toad",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 655,
+  "fields":
+  {
+    "name": "Toxin",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 656,
+  "fields":
+  {
+    "name": "Toxin",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 657,
+  "fields":
+  {
+    "name": "Tracy Strauss",
+    "publisher": "NBC - Heroes"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 658,
+  "fields":
+  {
+    "name": "Trickster",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 659,
+  "fields":
+  {
+    "name": "Trigon",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 660,
+  "fields":
+  {
+    "name": "Triplicate Girl",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 661,
+  "fields":
+  {
+    "name": "Triton",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 662,
+  "fields":
+  {
+    "name": "Two-Face",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 663,
+  "fields":
+  {
+    "name": "Ultragirl",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 664,
+  "fields":
+  {
+    "name": "Ultron",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 665,
+  "fields":
+  {
+    "name": "Utgard-Loki",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 666,
+  "fields":
+  {
+    "name": "Vagabond",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 667,
+  "fields":
+  {
+    "name": "Valerie Hart",
+    "publisher": "Team Epic TV"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 668,
+  "fields":
+  {
+    "name": "Valkyrie",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 669,
+  "fields":
+  {
+    "name": "Vanisher",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 670,
+  "fields":
+  {
+    "name": "Vegeta",
+    "publisher": "Shueisha"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 671,
+  "fields":
+  {
+    "name": "Venom",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 672,
+  "fields":
+  {
+    "name": "Venom II",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 673,
+  "fields":
+  {
+    "name": "Venom III",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 674,
+  "fields":
+  {
+    "name": "Venompool",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 675,
+  "fields":
+  {
+    "name": "Vertigo II",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 676,
+  "fields":
+  {
+    "name": "Vibe",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 677,
+  "fields":
+  {
+    "name": "Vindicator",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 678,
+  "fields":
+  {
+    "name": "Vindicator",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 679,
+  "fields":
+  {
+    "name": "Violator",
+    "publisher": "Image Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 680,
+  "fields":
+  {
+    "name": "Violet Parr",
+    "publisher": "Dark Horse Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 681,
+  "fields":
+  {
+    "name": "Vision",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 682,
+  "fields":
+  {
+    "name": "Vision II",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 683,
+  "fields":
+  {
+    "name": "Vixen",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 684,
+  "fields":
+  {
+    "name": "Vulcan",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 685,
+  "fields":
+  {
+    "name": "Vulture",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 686,
+  "fields":
+  {
+    "name": "Walrus",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 687,
+  "fields":
+  {
+    "name": "War Machine",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 688,
+  "fields":
+  {
+    "name": "Warbird",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 689,
+  "fields":
+  {
+    "name": "Warlock",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 690,
+  "fields":
+  {
+    "name": "Warp",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 691,
+  "fields":
+  {
+    "name": "Warpath",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 692,
+  "fields":
+  {
+    "name": "Wasp",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 693,
+  "fields":
+  {
+    "name": "Watcher",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 694,
+  "fields":
+  {
+    "name": "Weapon XI",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 695,
+  "fields":
+  {
+    "name": "White Canary",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 696,
+  "fields":
+  {
+    "name": "White Queen",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 697,
+  "fields":
+  {
+    "name": "Wildfire",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 698,
+  "fields":
+  {
+    "name": "Winter Soldier",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 699,
+  "fields":
+  {
+    "name": "Wiz Kid",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 700,
+  "fields":
+  {
+    "name": "Wolfsbane",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 701,
+  "fields":
+  {
+    "name": "Wolverine",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 702,
+  "fields":
+  {
+    "name": "Wonder Girl",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 703,
+  "fields":
+  {
+    "name": "Wonder Man",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 704,
+  "fields":
+  {
+    "name": "Wonder Woman",
+    "publisher": "DC Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 705,
+  "fields":
+  {
+    "name": "Wondra",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 706,
+  "fields":
+  {
+    "name": "Wyatt Wingfoot",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 707,
+  "fields":
+  {
+    "name": "X-23",
+    "publisher": "Marvel Comics"
+  }
+},
+{
+  "model": "api.hero",
+  "pk": 708,
+  "fields":
+  {
+    "name": "X-Man",
+    "publisher": "Marvel Comics"
+  }
+}]
